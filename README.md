@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aartithakur-Sudo
 - 👀 I’m interested in Data analytics,Machine learning,python and SQL
-- 🌱 I’m currently Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me you can mail me at my email id-aartithakur037@gmail.com
 
