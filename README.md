@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aartithakur-Sudo?tab=repositories](https://github.com/Aartithakur-Sudo?tab=repositories)
 
-- 💬 Ask me about **Microsoft Excel, MySQL Python**
+- 💬 Ask me about anything...try to answer(if i could)
 
 - 📫 How to reach me **aartithakur037@gmail.com**
 
