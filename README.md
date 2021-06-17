@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aartithakur-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="aartithakur-sudo" /> </p>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartithakur-sudo" alt="aartithakur-sudo" /></a> </p>
-
-- 🔭 I’m currently working on **Maven Fuzzy Factory**
-
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+- 🔭 I’m currently working on **Maven Fuzzy Factory**<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <img align="right" alt="Coding" width="400" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif">
 
 - 🌱 I’m currently learning **MySQL, Python, PowerBI, Tableau and Machine Learning**
