@@ -8,7 +8,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aartithakur-sudo" alt="aartithakur-sudo" /></a> </p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-- 🔭 I’m currently working on **Maven Fuzzy Factory**<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ - 🔭 currently working on **Maven Fuzzy Factory**<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <img align="right" alt="Coding" width="400" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif">
 
 - 🌱 I’m currently learning **MySQL, Python, PowerBI, Tableau and Machine Learning**
@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aartithakur-sudo&show_icons=true&locale=en" alt="aartithakur-sudo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aartithakur-sudo&" alt="aartithakur-sudo" /></p>
+
+[![Aarti's github activity graph](https://activity-graph.herokuapp.com/graph?username=Aartithakur-Sudo)](https://github.com/Aartithakur-Sudo/github-readme-activity-graph)
