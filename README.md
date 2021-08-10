@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **aartithakur037@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tiU6me72DemNBD3_G0rEdn9GRxJU5nGbE2bkE_Wm_7A/edit?usp=sharing](https://docs.google.com/document/d/1tiU6me72DemNBD3_G0rEdn9GRxJU5nGbE2bkE_Wm_7A/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1tiU6me72DemNBD3_G0rEdn9GRxJU5nGbE2bkE_Wm_7A/edit?usp=sharing](https://drive.google.com/file/d/11vf9q95mbWpQcBrW4tqiHwTKmRx-CWpk/view?usp=sharing)
 
 - ⚡ Fun fact **I’m not anti-social. I’m selectively social**
 
